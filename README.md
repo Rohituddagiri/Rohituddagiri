@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --># 💫 About Me:
-Currently pursuing my Master's Degree in Data Sciences and Applications at UB.<br> I have completed my Bachelor's degree from SASTRA University and worked<br> as a Assistant System Engineer (Data Warehousing) at TATA Consultancy<br> Services for a year. My favorite and go to programming language is Python<br> and I love to code in my free time. Proficient in Data Structures and Algorithms.
+Currently pursuing my Master's Degree in Data Sciences and Applications at UB. I have completed my Bachelor's degree from SASTRA University. My favorite and go to programming language is Python and I love to code in my free time. Proficient in Data Structures and Algorithms.
 
+Languages: Python, R, Unix shell scripting, SQL, PL/SQL, JavaScript
+Big Data Technologies: Snowflake (Snowpipe, Snowpark, SnowSQL, time travel, stored procedures, views, stages), Google BigQuery, AWS (S3, EC2, Lambda), Hadoop (HDFS, HBase, Hive, MapReduce), Dockers, PySpark, CI/CD, Tableau, Informatica, Data Warehousing
+Data Science Technologies: ETL, Data transformation, Data science pipeline (cleaning, wrangling, visualization, modelling, interpretation), Predictive Modeling, Statistics, Time series, Hypothesis testing, OOP, REST APIs, GitLabs, JIRA, Jenkins, Excel, Agile
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sairohituddagiri/) 
