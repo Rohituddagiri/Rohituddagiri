@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 Results-driven Data Analyst & AI/ML Engineer with expertise in data visualization, AI-powered analytics, and cloud-based solutions. Proficient in Python, SQL, Snowflake, Tableau, and Machine Learning, with hands-on experience in ETL pipelines, NLP models, and LLM fine-tuning to drive data-driven decision-making.
 
- ![image info](word-cloud.jpeg)
+ ![image info](word-cloud.jpeg =250x250)
 
 
 ## 🌐 Socials:
