@@ -18,8 +18,6 @@ Results-driven Data Analyst & AI/ML Engineer with expertise in data visualizatio
 
  ![image info](word-cloud.jpeg)
 
-<img src="word-cloud.jpeg" width=150% height=150%>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sairohituddagiri/) 
 
