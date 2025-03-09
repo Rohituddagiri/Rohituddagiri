@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 Results-driven Data Analyst & AI/ML Engineer with expertise in data visualization, AI-powered analytics, and cloud-based solutions. Proficient in Python, SQL, Snowflake, Tableau, and Machine Learning, with hands-on experience in ETL pipelines, NLP models, and LLM fine-tuning to drive data-driven decision-making.
 
- ![image info]([word-cloud.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fopendatascience.com%2Fhow-to-analyze-articles-about-data-science-using-data-science%2F&psig=AOvVaw0HuVd5OH0UkLwdMdI6xioy&ust=1741586234585000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDe7rmo_IsDFQAAAAAdAAAAABAE))
+ ![image info](https://www.google.com/url?sa=i&url=https%3A%2F%2Fopendatascience.com%2Fhow-to-analyze-articles-about-data-science-using-data-science%2F&psig=AOvVaw0HuVd5OH0UkLwdMdI6xioy&ust=1741586234585000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDe7rmo_IsDFQAAAAAdAAAAABAE)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sairohituddagiri/) 
