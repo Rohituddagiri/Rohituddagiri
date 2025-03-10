@@ -1,15 +1,9 @@
 <h1 align="center">👋 Hi, I'm Sai Rohit Uddagiri</h1>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200"/>
-    </td>
-    <td align="center">
-      <img src="https://media.tenor.com/JymtCWqGASQAAAAC/sun-halo-dragon-head-dance.gif" width="200"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200"/>
+  <img src="https://media.tenor.com/JymtCWqGASQAAAAC/sun-halo-dragon-head-dance.gif" width="200"/>
+</p>
 
 <h3 align="center">Data Analyst | AI/ML Engineer | Cloud Solutions Architect</h3>
 
