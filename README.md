@@ -64,39 +64,6 @@
 🔹 **AI-Powered Business Optimization** → NLP-based customer insights for **Insurance & Finance**  
 🔹 **Automated Data Pipelines** → ETL pipelines using **Snowflake, BigQuery, AWS**  
 
----
-
-## 🚀 **Professional Experience**
-👨‍💻 **Data Analyst | Christopher Newport University**  
-🔹 Built **Tableau Dashboards** for student data insights 📊  
-🔹 Optimized **SQL queries** (40% faster execution) ⚡  
-🔹 Standardized **Data Integration & ETL processes** 🔄  
-
-🤖 **AI/ML Engineer | Philadelphia Insurance Companies**  
-🔹 Developed **NLP Models** for customer feedback analysis 🗣️  
-🔹 Fine-tuned **Mistral-7B LLM** for **Automated Data Mapping** 🤖  
-
-🔬 **ML Research Assistant | University at Buffalo**  
-🔹 Created an **Azure Document AI** model for **Invoice Processing** 🏥  
-🔹 Developed **AI-powered chatbots** using **GPT-3.5 & PostgreSQL** 💬  
-
-🏢 **Data Analyst | Deloitte**  
-🔹 Migrated **Clinical Trial Data** into Snowflake ☁️  
-🔹 Performed **Statistical Analysis** using **SQL & R** 📈  
-
----
-
-## 🎓 **Education**
-🎓 **Master’s in Data Science** – University at Buffalo (GPA: 4.0/4.0)  
-🎓 **Bachelor’s in Electronics Engineering** – SASTRA University (GPA: 3.64/4.0)  
-
----
-
-## 🏆 **Certifications**
-✅ **AWS Certified Cloud Practitioner**  
-✅ **Microsoft Certified: Azure Data Engineer Associate**  
-
----
 
 ## 🌐 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairohituddagiri/)  
