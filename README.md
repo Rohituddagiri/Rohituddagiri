@@ -8,6 +8,9 @@
 - **ETL pipelines**, **Data Integration**, **Cloud Computing** & **Big Data Technologies**
 - **SQL Query Optimization**, **Predictive Modeling**, and **Data Visualization**
 
+ ![image info](https://opendatascience.com/wp-content/uploads/2017/12/keywords_wordcloud-e1512165849912.png)
+
+
 ---
 
 ## 📊 **Key Technical Skills**
