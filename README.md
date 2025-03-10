@@ -73,7 +73,6 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohituddagiri&theme=dark" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohituddagiri&layout=compact&theme=dark" width="400"/>
 </p>
 ---
