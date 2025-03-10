@@ -1,4 +1,16 @@
 <h1 align="center">👋 Hi, I'm Sai Rohit Uddagiri</h1>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200"/>
+    </td>
+    <td align="center">
+      <img src="https://media.tenor.com/JymtCWqGASQAAAAC/sun-halo-dragon-head-dance.gif" width="200"/>
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">Data Analyst | AI/ML Engineer | Cloud Solutions Architect</h3>
 
 ---
@@ -7,11 +19,6 @@
 - **AI-powered analytics**, **LLM fine-tuning**, **NLP** & **Data Science**
 - **ETL pipelines**, **Data Integration**, **Cloud Computing** & **Big Data Technologies**
 - **SQL Query Optimization**, **Predictive Modeling**, and **Data Visualization**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200"/>
-</p>
-
 
 ---
 
@@ -62,11 +69,6 @@
 🔹 **LLM Fine-Tuning & RAG-Based Medical Chatbot** → Falcon-7B for **Medical Query Responses**  
 🔹 **AI-Powered Business Optimization** → NLP-based customer insights for **Insurance & Finance**  
 🔹 **Automated Data Pipelines** → ETL pipelines using **Snowflake, BigQuery, AWS**  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
-</p>
-
 
 ---
 
