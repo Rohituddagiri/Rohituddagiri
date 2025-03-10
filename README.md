@@ -8,9 +8,6 @@
 - **ETL pipelines**, **Data Integration**, **Cloud Computing** & **Big Data Technologies**
 - **SQL Query Optimization**, **Predictive Modeling**, and **Data Visualization**
 
- ![image info](https://opendatascience.com/wp-content/uploads/2017/12/keywords_wordcloud-e1512165849912.png)
-
-
 ---
 
 ## 📊 **Key Technical Skills**
@@ -23,11 +20,12 @@
 ---
 
 ## 💡 **What I'm Working On**
+
+ ![image info](https://opendatascience.com/wp-content/uploads/2017/12/keywords_wordcloud-e1512165849912.png)
+
 🔹 **LLM Fine-Tuning & RAG-Based Medical Chatbot** → Falcon-7B for **Medical Query Responses**  
 🔹 **AI-Powered Business Optimization** → NLP-based customer insights for **Insurance & Finance**  
 🔹 **Automated Data Pipelines** → ETL pipelines using **Snowflake, BigQuery, AWS**  
-
-![Data Science](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/hero.svg)
 
 ---
 
@@ -70,7 +68,6 @@
 ---
 
 ## 📊 **GitHub Stats**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohituddagiri&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohituddagiri&layout=compact&theme=dark)  
 
 ---
