@@ -1,35 +1,80 @@
-# Sai Rohit Uddagiri
-
-### Hi there 👋
-<!--
-**Rohituddagiri/Rohituddagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-Results-driven Data Analyst & AI/ML Engineer with expertise in data visualization, AI-powered analytics, and cloud-based solutions. Proficient in Python, SQL, Snowflake, Tableau, and Machine Learning, with hands-on experience in ETL pipelines, NLP models, and LLM fine-tuning to drive data-driven decision-making.
-
- ![image info](https://opendatascience.com/wp-content/uploads/2017/12/keywords_wordcloud-e1512165849912.png)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sairohituddagiri/) 
-
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">👋 Hi, I'm Sai Rohit Uddagiri</h1>
+<h3 align="center">🚀 Data Analyst | AI/ML Engineer | Cloud Solutions Architect</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rohituddagiri&icon=0&color=0)](https://visitcount.itsvg.in)
 
+🎯 **Results-driven Data Analyst & AI/ML Engineer** with expertise in:
+- **AI-powered analytics**, **LLM fine-tuning**, **NLP** & **Data Science**
+- **ETL pipelines**, **Data Integration**, **Cloud Computing** & **Big Data Technologies**
+- **SQL Query Optimization**, **Predictive Modeling**, and **Data Visualization**
+
+---
+
+## 📊 **Key Technical Skills**
+🌟 **Programming:** Python, R, JavaScript, SQL, PL/SQL, Unix Shell Scripting  
+🌟 **Web Technologies:** HTML, CSS, React.js, Django, Node.js, XML, JSON  
+🌟 **Big Data:** Snowflake, Google BigQuery, Hadoop, PySpark, Tableau, Power BI  
+🌟 **AI/ML & NLP:** TensorFlow, PyTorch, Hugging Face, LLMs (Falcon-7B, Mistral-7B), RAG, OpenAI GPT  
+🌟 **DevOps & Cloud:** AWS (Lambda, S3, Sagemaker), Azure, GitHub, REST API, Jenkins, Agile  
+
+---
+
+## 💡 **What I'm Working On**
+🔹 **LLM Fine-Tuning & RAG-Based Medical Chatbot** → Falcon-7B for **Medical Query Responses**  
+🔹 **AI-Powered Business Optimization** → NLP-based customer insights for **Insurance & Finance**  
+🔹 **Automated Data Pipelines** → ETL pipelines using **Snowflake, BigQuery, AWS**  
+
+![Data Science](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/hero.svg)
+
+---
+
+## 🚀 **Professional Experience**
+👨‍💻 **Data Analyst | Christopher Newport University**  
+🔹 Built **Tableau Dashboards** for student data insights 📊  
+🔹 Optimized **SQL queries** (40% faster execution) ⚡  
+🔹 Standardized **Data Integration & ETL processes** 🔄  
+
+🤖 **AI/ML Engineer | Philadelphia Insurance Companies**  
+🔹 Developed **NLP Models** for customer feedback analysis 🗣️  
+🔹 Fine-tuned **Mistral-7B LLM** for **Automated Data Mapping** 🤖  
+
+🔬 **ML Research Assistant | University at Buffalo**  
+🔹 Created an **Azure Document AI** model for **Invoice Processing** 🏥  
+🔹 Developed **AI-powered chatbots** using **GPT-3.5 & PostgreSQL** 💬  
+
+🏢 **Data Analyst | Deloitte**  
+🔹 Migrated **Clinical Trial Data** into Snowflake ☁️  
+🔹 Performed **Statistical Analysis** using **SQL & R** 📈  
+
+---
+
+## 🎓 **Education**
+🎓 **Master’s in Data Science** – University at Buffalo (GPA: 4.0/4.0)  
+🎓 **Bachelor’s in Electronics Engineering** – SASTRA University (GPA: 3.64/4.0)  
+
+---
+
+## 🏆 **Certifications**
+✅ **AWS Certified Cloud Practitioner**  
+✅ **Microsoft Certified: Azure Data Engineer Associate**  
+
+---
+
+## 🌐 **Connect With Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairohituddagiri/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/Rohituddagiri)  
+
+---
+
+## 📊 **GitHub Stats**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohituddagiri&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohituddagiri&layout=compact&theme=dark)  
+
+---
+
+## 📝 **Dev Quote**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+🔥 **Let's collaborate on Data Science, AI, and Cloud projects!** 🔥  
