@@ -45,7 +45,6 @@
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50"/>
   </td>
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
   </td>
