@@ -5,11 +5,11 @@
   <img src="https://media.tenor.com/JymtCWqGASQAAAAC/sun-halo-dragon-head-dance.gif" width="200"/>
 </p>
 
-<h3 align="center">Data Analyst | AI/ML Engineer | Cloud Solutions Architect</h3>
+<h3 align="center">Data Engineer | AI/ML Engineer | Cloud Solutions Architect</h3>
 
 ---
 
-**Results-driven Data Analyst & AI/ML Engineer** with expertise in:
+**Results-driven Data Engineer & AI/ML Engineer** with expertise in:
 - **AI-powered analytics**, **LLM fine-tuning**, **NLP** & **Data Science**
 - **ETL pipelines**, **Data Integration**, **Cloud Computing** & **Big Data Technologies**
 - **SQL Query Optimization**, **Predictive Modeling**, and **Data Visualization**
